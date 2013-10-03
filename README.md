@@ -8,8 +8,6 @@ Usage:
 
 Point a browser to:
 
-http://localhost:8080/api/person/<id>/<api version>
+http://localhost:8080/api/person/7/_api_
 
-Where
-<id> is a random number
-<api version> is either 1 or 2
+Where _api_ is either 1 or 2
