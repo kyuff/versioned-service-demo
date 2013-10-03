@@ -8,7 +8,7 @@ Usage:
 
 Point a browser to:
 
-http://localhost:8080/api/person/7/1
-http://localhost:8080/api/person/7/2
+* http://localhost:8080/api/person/7/1
+* http://localhost:8080/api/person/7/2
 
 Where the last number in the URL is the API version number.
